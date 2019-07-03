@@ -64,7 +64,7 @@ job('job-created-from-git') {
    steps { 
         shell('''
             echo ********************
-            echo "Por fin estamos listos!!!!!!!!!!"
+            echo "Por fin estamos listos!!!!!!!!!!!!"
             echo ********************
 
         ''')
